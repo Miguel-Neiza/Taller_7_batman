@@ -1,0 +1,82 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Times New Roman', Times, serif;
+}
+#cabecera{
+    height: 189px;
+    background-color: #E6E6E6;
+    display: flex;
+    justify-content: center;
+}
+img{
+    height: 147px;
+    width: 100px;
+    margin-top: 20px;
+}
+#cabeceraNombre{
+    background-color: #C4C4C4;
+    height: 60px;
+    text-align: center;
+}
+#curriculumNombre{
+    margin: 0px;
+    color: rgba(0, 86, 119, 1);
+    padding-top: 10px
+    ;
+}
+#datos{
+    margin: 225px;
+}
+h2{
+    color:rgba(0, 86, 119, 1);
+    margin: 0px;
+    padding-left: 12px;
+    padding-top: 4px;
+    font-size: 20px;
+    font-weight: 700;
+    position: relative;
+}
+ul{
+    margin-top: 16px;
+    margin-bottom: 16px;
+    padding-left: 40px;
+}
+li{
+    font-size: 15px;
+    line-height: 19px;
+    font-weight: 400;
+}
+
+.lista{
+    list-style: none;
+}
+
+.subCabecera{
+    height: 30px;
+    width: 100%;
+    background-color: rgba(196, 196, 196, 1);
+}
+
+.segunda{
+    margin-left: 75px;
+}
+
+#footer{
+    height: 37px;
+    background-color: #005677;
+    display: flex;
+    justify-content: center;
+    color: rgba(255, 255, 255, 1);
+
+}
+
+h3{
+    margin: 10px 15px 0px 15px;
+}
+
+#footer img{
+    height: 20px;
+    width: 20px;
+    margin: 10px 15px 0px 15px;
+}
